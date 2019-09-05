@@ -1,6 +1,3 @@
-# pf-py-executable
-Created to host python executable files
-
 # LEONARDO_COIS-PY-LOTTO-GAME
 This file simulates draws for a lottery game.
 * tested in windows x64"
