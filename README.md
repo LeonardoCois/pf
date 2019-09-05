@@ -10,6 +10,6 @@ It will roll dice according to entered settings and output an organized ranking.
 
 # LEONARDO_COIS-PY-PRIME-NUMBER
 This executable calculates whether a user inputted number is prime or not, and show the results.
-* tested in windows x64"
+* tested in windows x64
 
 
