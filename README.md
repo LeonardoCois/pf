@@ -1,4 +1,4 @@
-
+Description of each executable.
 
 # LEONARDO_COIS-PY-LOTTO-GAME
 This file simulates draws for a lottery game.
