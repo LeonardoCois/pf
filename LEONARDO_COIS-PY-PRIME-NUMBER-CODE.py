@@ -22,7 +22,7 @@ l = []
 while True:
     x = str(input('>> Enter a integer number: '))
     spaces = len(x)
-    
+
     # testing and cut above = 100
     if spaces < 3:
         print('>> Hey, let\'s do something fun, please try a bigger one, like 100')
@@ -54,7 +54,7 @@ for c in range(1, x + 1):
         ee = ' '
         leftm = ''
         rightm = ''
-        
+
     # check if is prime ou not and add color
     if x % c == 0:
         print(f'{rightm}\033[1;32m{c: >{spaces}}\033[m{leftm}', end=ee)
